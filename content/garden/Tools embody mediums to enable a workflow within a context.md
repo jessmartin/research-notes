@@ -1,5 +1,5 @@
 # Tools embody mediums to enable a workflow within a context
-![](../BearImages/9FD63905-4918-41FD-B5BD-8DF4F31CB2B9-4531-0002A2B0F216CD62/175D0EF6-F7F4-4751-B6B5-9D47FC25DF04.png)
+![](/BearImages/175D0EF6-F7F4-4751-B6B5-9D47FC25DF04.png)
 Or rather, Tools are instantiations of one or more medium.
 
 I propose the following definition of a tool, which I'll then unpack below:
@@ -38,7 +38,7 @@ Any workflow exists within a larger context. This context includes time and spat
 
 ## Technologies and Environments
 What about general-purpose technologies and environments?
-![](../BearImages/FE312914-5DE9-453C-8C36-B5641C185813-4531-0002A3FA2EA812A1/8B89F9CD-4AE0-40F5-AADA-0E1F169B46DA.png)
+![](/BearImages/8B89F9CD-4AE0-40F5-AADA-0E1F169B46DA.png)
 
 ## Technology
 What about technologies? What role do they play in all of this? Technologies are the underlying capability set that limit the [[possibility space]] of tool development.
