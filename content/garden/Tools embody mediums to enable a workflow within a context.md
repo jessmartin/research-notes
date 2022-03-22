@@ -34,14 +34,14 @@ To state that I have a reading workflow is not a claim that my workflow is entir
 To make it even more mundane, I bet that you have a workflow for drinking coffee. That may involve complicated tools and measurements on your part or it may involve acquiring that coffee from someone else.
 
 ## Context
-Any workflow exists within a larger context. This context includes time and spatial elements, environmental constraints, societal and personal characteristics. The context acts as an "outer bound" to the [[possibility space]] of the workflow, which then guides the design and tradeoffs of the tool itself, including which specific mediums are employed by the tool.
+Any workflow exists within a larger context. This context includes time and spatial elements, environmental constraints, societal and personal characteristics. The context acts as an "outer bound" to the [[Possibility Space]] of the workflow, which then guides the design and tradeoffs of the tool itself, including which specific mediums are employed by the tool.
 
 ## Technologies and Environments
 What about general-purpose technologies and environments?
 ![](/BearImages/8B89F9CD-4AE0-40F5-AADA-0E1F169B46DA.png)
 
 ## Technology
-What about technologies? What role do they play in all of this? Technologies are the underlying capability set that limit the [[possibility space]] of tool development.
+What about technologies? What role do they play in all of this? Technologies are the underlying capability set that limit the [[Possibility Space]] of tool development.
 
 We don't yet have adequate technology to make 3D spreadsheets practical and useful. The medium already exists! We could design workflows in specific contexts where it would be useful. But the current limitations of VR and AR make interacting with 3D content on a 2D screen cumbersome, and therefore the tool is not there.
 
