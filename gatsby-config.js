@@ -4,11 +4,11 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/content/garden`,
-        rootNote: `/hello`,
+        rootNote: `/About this lab notebook`,
       },
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `Jess's Research Notes`,
   },
 }
