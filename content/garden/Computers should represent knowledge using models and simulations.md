@@ -1,0 +1,35 @@
+# Computers should represent knowledge using models and simulations
+How do we represent knowledge as humans? I argue it's represented by two elements: a **model** of that knowledge and a **simulation**.
+
+## Knowledge as a model
+By model, I mean a representation of the subject matter in such a way that the intricacies of the knowledge are well-understood. Additionally, the model should have sufficient "suppleness" to be able to be manipulated with a meaningful variety of accurate states.
+
+Abstract definition and description will soon get tedious without an example to ground our discussion. By way of example, let's consider knowledge of how to play the game of tennis. I happen to be a very experienced tennis player, with probably 10,000 hours of play at this point, and in developing my skill as a tennis player I have a developed correspondingly complex and rich model of the game of tennis. For example, I have a mental model of the tennis racquet, including the influence of different string types and tensions, grip circumferences and thicknesses, racquet lengths and head sizes. I have a model of the tennis ball, from it's covering to the difference between a just-opened ball and one that's been played with for a few hours, the tightness of the felt, the impact of altitude, the responsiveness of the ball to interaction with different court surfaces. I have a model of different shots, ground strokes and volleys, approach shots and overhead slams, serves and drop shots. I have a rough idea of the statistical likelihood of executing a particular shot under differing circumstances (intuitive, at this point). I have a model of different styles of play, from serve-and-volley, to hard-hitting base-lining, to wear-you-down-by-never-miss.  For each style of play, I have a variety of strategies to employ to counter and frustrate that style of play.
+
+Now, much of my model of the game of tennis is intuitive at this point. It's encoded in my body through "muscle memory" such that I don't have to consciously interact with every of my model on every point. My mental model of tennis allows me to swiftly diagnose, respond, and react to the conditions in front of me.
+
+### Expressive versus limited models
+Aside: I also considered "strong" versus "weak" and "rich" versus "poor" as the contrasting adjectives to describe models. I may return to those.
+Certainly my model of the game of tennis is an expressive one, but in many other areas I have a quite limited model. For example, my knowledge of the French language is scant and doesn't support rich interaction. I don't have a broad vocabulary. I have a rough understanding of sentence structure based on my relative familiarity with Spanish. I have terrible pronunciation based on my inexperience with hearing the language spoken aloud.
+
+## Knowledge as simulation
+By simulation, I refer to the ability to modify the parameters of the model and accurately hypothesize on the result of that modification.
+
+To return to my tennis example, I have a highly-detailed mental "simulation" of the basic strokes of tennis and how they react to different ball speeds and spins, interact with the angle of my racquet head, cause the ball to travel through the air, and bounce off different court surfaces. To take one specific example, with my forehand slice, I can imagine the ideal racquet angle and the difference in the shot's trajectory based on modifying that racquet angle by just a few degrees in either direction. I don't need to actually witness the result of this in reality to have a reasonably accurate guess; I can "simulate" the change and anticipate, often correctly, the response.
+
+Interestingly, further observation, particularly when reality does not match what I anticipated can inform my model and simulation, enriching the model. This is, essentially, what it means to learn something (see [[Learning]]).
+
+### Accurate versus inaccurate simulations
+
+While models can be expressive or limited, simulations tend to be either highly accurate or inaccurate. "[All models are wrong; but some are useful.](https://en.wikipedia.org/wiki/All_models_are_wrong)" The usefulness of a simulation is based on the simulation's ability to represent the interaction with a model faithfully.
+
+## Computing and Knowledge Representation
+If we accept my premise that knowledge is represented both by a model (ideally, an expressive one!) and a simulation (ideally, an accurate one!) then we can turn our attention to the way that we currently represent knowledge in computing environments.
+
+If computers are to live up to their promise of being **tools for thought**, we will need methods of representing knowledge with expressive models and accurate simulations.
+
+- [ ] This feels more like an article to me. Refactor into an article and multiple evergreen notes?
+
+<!-- #notebook -->
+
+<!-- {BearID:E47F2FC1-27B2-42E1-880C-0A78D1DE3A39-45901-000270859AD94DDE} -->
